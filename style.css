@@ -1,0 +1,26 @@
+body{
+    background-image: url(transferir.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:right center ;
+}
+
+body{
+    color: antiquewhite;
+}
+h1{
+    background-color: black;
+    background-size: ;
+}
+
+h2{
+    background-color: black;
+}
+
+titulo2{
+    border: 1px solid #000;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #000;
+}
+
